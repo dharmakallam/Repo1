@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 2C9E-B3C1
+
+ Directory of D:\devops\MyGit
+
+2022-04-19  04:33 AM    <DIR>          .
+2022-04-19  04:31 AM    <DIR>          ..
+2022-04-19  04:33 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  138,009,845,760 bytes free
